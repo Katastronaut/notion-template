@@ -5,5 +5,12 @@
     "component": "/Users/max/Documents/01_Repositories/notion-template/pages/index.vue",
     "chunkName": "pages/index",
     "_name": "_7986ebd7"
+  },
+  {
+    "name": "slug",
+    "path": "/:slug",
+    "component": "/Users/max/Documents/01_Repositories/notion-template/pages/_slug.vue",
+    "chunkName": "pages/_slug",
+    "_name": "_77d04a8f"
   }
 ]
